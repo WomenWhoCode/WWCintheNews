@@ -5,7 +5,7 @@ Press Mentions
 
 
 
-Women Who Code artile in Hebrew - http://www.geektime.co.il/women-who-code-israel/
+Women Who Code article in Hebrew - http://www.geektime.co.il/women-who-code-israel/
 
 1/14/14 6 Tips For Female Engineers to Advance Their Careers - http://women2.com/career-advancement-female-engineers/
 
