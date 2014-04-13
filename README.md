@@ -12,7 +12,7 @@ Press Mentions
 3/21/14 Featured in [Chanel News Asia] (https://www.youtube.com/watch?v=GL8rfVzB80w&feature=youtu.be)
 3/21/14 Featured on [CCTV San Francisco] (https://www.youtube.com/watch?v=-641bj3ixn8&feature=youtu.be)
 
-[Women Who Code article] 9http://www.geektime.co.il/women-who-code-israel/) in Hebrew
+2/9/14 [Women Who Code article] (http://www.geektime.co.il/women-who-code-israel/) in Hebrew
 
 1/14/14 Women2.0: [6 Tips For Female Engineers to Advance Their Careers] (http://women2.com/career-advancement-female-engineers/)
 
