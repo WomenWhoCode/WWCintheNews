@@ -3,6 +3,8 @@ WWCintheNews
 
 Press Mentions
 
+5/26/14 Rivera Partners: [Alaina's Bio] (http://rivierapartners.com/teammembers/alaina-percival/) 
+
 4/13/14 ComputerWeekly: [Male or Female We Are All Here to Get the Job Done] (http://www.computerweekly.com/blogs/witsend/2014/04/male-or-female-were-all-here-to-get-the-job-done.html)
 
 3/28/14 ComputerWeekly: [Learning not to play down your own abilities: My experience of a female coding club] (http://www.computerweekly.com/blogs/witsend/2014/03/learning-not-to-play-down-your-own-abilities-my-experience-of-a-female-coding-club.html)
