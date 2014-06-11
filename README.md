@@ -5,6 +5,8 @@ Press Mentions
 
 6/9/14 YouTube Video: [Belfast Technology Conference, Alaina and Sheree Speak] (https://www.youtube.com/watch?v=KjmAAr3cQN0&feature=youtu.be&t=19m12s)
 
+6/8/14 Denver Post: [Female-focused initiatives change tides for rising tech entrepreneurs] (http://www.denverpost.com/business/ci_25916261/female-focused-initiatives-shift-tides-rising-tech-entrepreneurs#disqus_thread)
+
 6/6/14 Mountain View Voice: [Mountain View Chosen For First Girls Make Games Camp] (http://mv-voice.com/blogs/p/2014/06/06/mountain-view-chosen-for-first-girlsmakegames-camp)
 
 5/26/14 Rivera Partners: [Alaina's Bio] (http://rivierapartners.com/teammembers/alaina-percival/) 
