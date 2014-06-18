@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+6/18/14 The Christian Science Monitor: [Silicon Valley's Workforce Could See Demographic Shift] (http://www.csmonitor.com/Business/Saving-Money/2014/0618/Silicon-Valley-s-workforce-could-see-demographic-shift)
+
 6/9/14 YouTube Video: [Belfast Technology Conference, Alaina and Sheree Speak] (https://www.youtube.com/watch?v=KjmAAr3cQN0&feature=youtu.be&t=19m12s)
 
 6/8/14 Denver Post: [Female-focused initiatives change tides for rising tech entrepreneurs] (http://www.denverpost.com/business/ci_25916261/female-focused-initiatives-shift-tides-rising-tech-entrepreneurs#disqus_thread)
