@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+6/18/14 The National Journal: [Can Big Data Boost The Paltry Number of Female and Minority Tech Workers] (http://www.nationaljournal.com/next-economy/solutions-bank/can-big-data-boost-the-paltry-number-of-female-and-minority-tech-workers-20140618)
+
 6/18/14 The Christian Science Monitor: [Silicon Valley's Workforce Could See Demographic Shift] (http://www.csmonitor.com/Business/Saving-Money/2014/0618/Silicon-Valley-s-workforce-could-see-demographic-shift)
 
 6/9/14 YouTube Video: [Belfast Technology Conference, Alaina and Sheree Speak] (https://www.youtube.com/watch?v=KjmAAr3cQN0&feature=youtu.be&t=19m12s)
