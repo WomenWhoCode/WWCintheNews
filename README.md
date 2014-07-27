@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+7/25/14 Bloomberg: [Wayne Sutton on incubators and their impact on the startup scene] (https://www.youtube.com/watch?v=whbrB4EdIpY&feature=youtu.be&t=3m45s)
+
 6/25/14: Marketplace Tech: [Google Addresses the White Male Culture of Tech] (http://www.marketplace.org/topics/tech/google-addresses-white-male-culture-tech)
 
 6/24/14: Wichita Business Journal: [Women Who Code Group Forms In Wichita] (http://www.bizjournals.com/wichita/blog/techflash/2014/06/women-who-code-group-forms-in-wichita.html?ana=twt)
