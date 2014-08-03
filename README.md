@@ -23,6 +23,8 @@ Press Mentions
 
 5/26/14 Rivera Partners: [Alaina's Bio] (http://rivierapartners.com/teammembers/alaina-percival/) 
 
+5/15/14 The Santa Clarita Valley Signal: [Women's Conference to Help Attendees Reach 'Beyond Barriers'] (http://www.signalscv.com/section/36/article/119894/)
+
 5/6/14: Huff Post Business Blog: [Hobnobbing With 'Givers' Mike Gamson and Alaina Percival] (http://www.huffingtonpost.com/charu-sharma/hobnobbing-with-givers-mi_b_5246911.html)
 
 4/13/14 ComputerWeekly: [Male or Female We Are All Here to Get the Job Done] (http://www.computerweekly.com/blogs/witsend/2014/04/male-or-female-were-all-here-to-get-the-job-done.html)
