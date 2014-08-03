@@ -5,11 +5,13 @@ Press Mentions
 
 7/25/14 Bloomberg: [Wayne Sutton on incubators and their impact on the startup scene] (https://www.youtube.com/watch?v=whbrB4EdIpY&feature=youtu.be&t=3m45s)
 
-6/25/14: Marketplace Tech: [Google Addresses the White Male Culture of Tech] (http://www.marketplace.org/topics/tech/google-addresses-white-male-culture-tech)
+6/30/14 The Austin Statesman: [Ranks of women-in-tech groups growing in Austin] (http://www.mystatesman.com/news/technology/gallaga-ranks-of-women-in-tech-groups-growing-in-a/ngTnj/?icid=statesman_internallink_mystatesmaninvitationbox_feb2014_99cdaypass_post-purchase#5fc29b96.3663166.735415&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1&__federated=1)
 
-6/24/14: Wichita Business Journal: [Women Who Code Group Forms In Wichita] (http://www.bizjournals.com/wichita/blog/techflash/2014/06/women-who-code-group-forms-in-wichita.html?ana=twt)
+6/25/14 Marketplace Tech: [Google Addresses the White Male Culture of Tech] (http://www.marketplace.org/topics/tech/google-addresses-white-male-culture-tech)
 
-6/19/14: YouTube Video: [Nerdwallet hosts Cocktails and Career Hacking] (https://www.youtube.com/watch?v=xMe_kvAr9rg&utm_content=buffer9d9d3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+6/24/14 Wichita Business Journal: [Women Who Code Group Forms In Wichita] (http://www.bizjournals.com/wichita/blog/techflash/2014/06/women-who-code-group-forms-in-wichita.html?ana=twt)
+
+6/19/14 YouTube Video: [Nerdwallet hosts Cocktails and Career Hacking] (https://www.youtube.com/watch?v=xMe_kvAr9rg&utm_content=buffer9d9d3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 6/18/14 The National Journal: [Can Big Data Boost The Paltry Number of Female and Minority Tech Workers] (http://www.nationaljournal.com/next-economy/solutions-bank/can-big-data-boost-the-paltry-number-of-female-and-minority-tech-workers-20140618)
 
