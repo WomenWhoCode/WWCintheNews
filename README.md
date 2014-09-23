@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+9/12/14 TVP Money Magazine: [Karen Farzam Director WWCode Hong Kong] (https://www.youtube.com/watch?v=JA9z-5j5pAg)
+
 8/11/14 Wall Street Journal: [Wayne Sutton: It All Starts with Empathy] (http://blogs.wsj.com/accelerators/2014/08/11/wayne-sutton-empathy/)
 
 8/5/14 Wall Street Journal: [10 Reasons Why More Women Should Work in Software Engineering] (http://blogs.wsj.com/accelerators/2014/08/05/alaina-percival-10-reasons-why-more-women-should-work-in-software-engineering/?mod=e2tw)
