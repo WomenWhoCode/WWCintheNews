@@ -7,6 +7,8 @@ Press Mentions
 
 8/11/14 Wall Street Journal: [Wayne Sutton: It All Starts with Empathy] (http://blogs.wsj.com/accelerators/2014/08/11/wayne-sutton-empathy/)
 
+8/10/14 Education Post [featuring WWCode Hong Kong Director Karen Farzam] (http://www.educationpost.com.hk/campaign/2013/pdf/inside_entrepreneurship-aug2014.pdf)
+
 8/5/14 Wall Street Journal: [10 Reasons Why More Women Should Work in Software Engineering] (http://blogs.wsj.com/accelerators/2014/08/05/alaina-percival-10-reasons-why-more-women-should-work-in-software-engineering/?mod=e2tw)
 
 7/25/14 Bloomberg: [Wayne Sutton on incubators and their impact on the startup scene] (https://www.youtube.com/watch?v=whbrB4EdIpY&feature=youtu.be&t=3m45s)
