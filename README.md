@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+10/1/14 Diversity Woman Magazine: [Thinking Diversity] (http://diversitywoman.epubxp.com/t/29918)
+
 9/22/14 Cosmopolitan: [Get That Life: How I Plan to Connect 1 Million Women In Technology] (http://www.cosmopolitan.com/career/interviews/a31310/get-that-life-alaina-percival-women-who-code/)
 
 9/12/14 TVP Money Magazine: [Karen Farzam Director WWCode Hong Kong] (https://www.youtube.com/watch?v=JA9z-5j5pAg)
