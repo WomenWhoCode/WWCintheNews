@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+10/21/14 ComputerWorld [Software dev shortage transcends international boundaries] (http://www.computerworld.com/article/2836311/software-dev-shortage-transcends-international-boundaries.html)
+
 10/1/14 Diversity Woman Magazine: [Thinking Diversity] (http://diversitywoman.epubxp.com/t/29918)
 
 9/22/14 Cosmopolitan: [Get That Life: How I Plan to Connect 1 Million Women In Technology] (http://www.cosmopolitan.com/career/interviews/a31310/get-that-life-alaina-percival-women-who-code/)
