@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+2/2/15 Tech Republic US [Alaina Percival: Women Who Code CEO. Grassroots leader. Hiker.] (http://www.techrepublic.com/article/alaina-percival-women-who-code-ceo-grassroots-leader-hiker/)
+
 10/21/14 ComputerWorld [Software dev shortage transcends international boundaries] (http://www.computerworld.com/article/2836311/software-dev-shortage-transcends-international-boundaries.html)
 
 10/1/14 Diversity Woman Magazine: [Thinking Diversity] (http://diversitywoman.epubxp.com/t/29918)
