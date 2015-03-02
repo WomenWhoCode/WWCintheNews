@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+3/2/15 Wichita Business Journal: [Wichita is a top city for women in tech, study says] (http://www.bizjournals.com/wichita/blog/techflash/2015/03/wichita-is-a-top-city-for-women-in-tech-study-says.html) 
+
 2/2/15 Tech Republic US: [Alaina Percival: Women Who Code CEO. Grassroots leader. Hiker.] (http://www.techrepublic.com/article/alaina-percival-women-who-code-ceo-grassroots-leader-hiker/)
 
 1/24/15 TechCrunch: [Priortizing Diversity in 2015] (http://techcrunch.com/2015/01/24/prioritizing-diversity-in-2015/) 
