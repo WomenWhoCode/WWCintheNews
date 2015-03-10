@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+3/6/15 Time Magazine: [5 Ways Women In Tech Can Beat the Odds] (http://time.com/money/3719366/ellen-pao-women-tech/)
+
 3/2/15 Wichita Business Journal: [Wichita is a top city for women in tech, study says] (http://www.bizjournals.com/wichita/blog/techflash/2015/03/wichita-is-a-top-city-for-women-in-tech-study-says.html) 
 
 2/2/15 Tech Republic US: [Alaina Percival: Women Who Code CEO. Grassroots leader. Hiker.] (http://www.techrepublic.com/article/alaina-percival-women-who-code-ceo-grassroots-leader-hiker/)
