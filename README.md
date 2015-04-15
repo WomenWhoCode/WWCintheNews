@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+4/15/15 International Business Times: [What Etsy Could Teach Google, Facebook And Twitter About Diversity] (http://www.ibtimes.com/what-etsy-could-teach-google-facebook-twitter-about-diversity-1882115) 
+
 3/6/15 Time Magazine: [5 Ways Women In Tech Can Beat the Odds] (http://time.com/money/3719366/ellen-pao-women-tech/)
 
 3/5/15 Suddeutsche.de: [Gegen die Männerzirkel in der Tech-Industrie] (http://www.sueddeutsche.de/wirtschaft/it-initiative-women-who-code-gegen-die-maennerzirkel-in-der-tech-industrie-1.2375528) 
