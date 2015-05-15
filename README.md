@@ -3,9 +3,33 @@ WWCodeintheNews
 
 Press Mentions
 
+5/15/15 Wired Germany: [Women Who Code: Alaina Percival über ihr Frauen-Tech-Netzwerk] (Women Who Code Alaina Percival über ihr Frauen-Tech-Netzwerk)
+
 5/14/15 The Street: [Would Twitter Stock Pop If It Had More Women On Top] (http://www.thestreet.com/story/13149116/1/would-twitter-stock-pop-if-it-had-more-women-on-top.html)
 
+5/8/15 The Street: [How Can Twitter, Facebook, Google Raise Their Stock? Hire More Women] (http://www.thestreet.com/story/13137377/1/how-can-twitter-facebook-google-raise-their-stock-hire-more-women.html)
+
+5/6/15 7X7: [Coding Like a Girl: How One SF Company is Arming Women to Succeed in Tech] (http://www.7x7.com/tech/coding-girl-how-one-sf-company-combats-tech-gender-wars) 
+
+4/30/15 Forbes: [Step Inside This Teen Girls' Hackathon, Where Budding Coders Get Their Start] (http://www.forbes.com/sites/hilarybrueck/2015/04/30/all-that-glitters-is-code/)
+
+4/28/15 Opensource.com: [6 PyCon 2015 community-focused videos to watch] (6 PyCon 2015 community-focused videos to watch)
+
+4/27/15 Programmable Web: [GENDER GAP GRADER API ENABLES GENDER DATA REVOLUTION] (http://www.programmableweb.com/news/gender-gap-grader-api-enables-gender-data-revolution/2015/04/27)
+
+4/26/15 Zeit Online: [Alaina Percivals Geschäft ist die Emanzipation] (http://www.zeit.de/wirtschaft/unternehmen/2015-04/emanzipation-silicon-valley-tech-firmen-frauen) 
+
+4/25/15 The Guardian: [Supermodels join drive for women to embrace coding] (http://www.theguardian.com/technology/2015/apr/25/supermodels-join-drive-women-embrace-coding)
+
+4/24/15 PC World: [Comcast's $45 billion Time Warner Cable acquisition is officially dead] (http://www.pcworld.com/article/2914652/comcasts-45-billion-time-warner-cable-acquisition-is-officially-dead.html)
+
+4/15/15 TechCrunch: [To Promote Diversity, Apple Increases The Number Of WWDC Scholarships] (http://techcrunch.com/2015/04/15/to-promote-diversity-apple-increases-the-number-of-wwdc-scholarships/)
+
 4/15/15 International Business Times: [What Etsy Could Teach Google, Facebook And Twitter About Diversity] (http://www.ibtimes.com/what-etsy-could-teach-google-facebook-twitter-about-diversity-1882115) 
+
+4/3/15 NPR: [Creating a More Female-Friendly Tech Industry] (http://www.kqed.org/a/forum/R201504030900) 
+
+3/10/15 Wonderzein: [Глава Women Who Code о позиции женщин в IT-индустрии] (http://www.wonderzine.com/wonderzine/life/life-interview/204693-alaina-percival) 
 
 3/6/15 Time Magazine: [5 Ways Women In Tech Can Beat the Odds] (http://time.com/money/3719366/ellen-pao-women-tech/)
 
