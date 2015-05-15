@@ -3,6 +3,8 @@ WWCodeintheNews
 
 Press Mentions
 
+5/14/15 The Street: [Would Twitter Stock Pop If It Had More Women On Top] (http://www.thestreet.com/story/13149116/1/would-twitter-stock-pop-if-it-had-more-women-on-top.html)
+
 4/15/15 International Business Times: [What Etsy Could Teach Google, Facebook And Twitter About Diversity] (http://www.ibtimes.com/what-etsy-could-teach-google-facebook-twitter-about-diversity-1882115) 
 
 3/6/15 Time Magazine: [5 Ways Women In Tech Can Beat the Odds] (http://time.com/money/3719366/ellen-pao-women-tech/)
