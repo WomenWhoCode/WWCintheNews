@@ -3,6 +3,10 @@ WWCodeintheNews
 
 Press Mentions
 
+5/26/15 WIRED: [GoDaddy isn't the Company You Think It Is] (http://www.wired.com/2015/05/godaddy-isnt-company-think/)
+
+5/22/15 ABCNews4: [Women Who Code Starts Up in Birmingham] (http://www.abcnews4.com/story/29133385/women-who-code-starts-up-in-birmingham) 
+
 5/15/15 Wired Germany: [Women Who Code: Alaina Percival über ihr Frauen-Tech-Netzwerk] (Women Who Code Alaina Percival über ihr Frauen-Tech-Netzwerk)
 
 5/14/15 The Street: [Would Twitter Stock Pop If It Had More Women On Top] (http://www.thestreet.com/story/13149116/1/would-twitter-stock-pop-if-it-had-more-women-on-top.html)
